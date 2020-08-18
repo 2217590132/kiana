@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "NaiMiao";
+  src: url("NaiMiao.woff2") format("woff2"),
+       url("NaiMiao.woff") format("woff"),
+       url("NaiMiao.ttf") format("truetype"),
+       url("NaiMiao.eot") format("embedded-opentype"),
+       url("NaiMiao.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
