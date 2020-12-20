@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "Zhanku";
+  src: url("Zhanku.woff2") format("woff2"),
+       url("Zhanku.woff") format("woff"),
+       url("Zhanku.ttf") format("truetype"),
+       url("Zhanku.eot") format("embedded-opentype"),
+       url("Zhanku.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
